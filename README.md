@@ -116,7 +116,7 @@ $ rake db:seed:articles
 * Visit your blog homepage at `localhost:3000/`
 * Publish your first blog post!
 
-##The Bugs
+## The Bugs
 
 A number of issues have been added to the main github repo. Please fix each bug on its own branch (e.g. `fix_sidebar_styles`). We suggest you do them in order:
 
