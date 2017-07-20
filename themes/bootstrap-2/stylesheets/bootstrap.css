@@ -1072,7 +1072,6 @@ h2,
 h3,
 .h3 {
   font-size: 31px;
-  font-family: monospace;
   }
 }
 h4,
@@ -1210,7 +1209,6 @@ ul,
 ol {
   margin-top: 0;
   margin-bottom: 12.5px;
-  list-style-type: circle;
 }
 ul ul,
 ol ul,
