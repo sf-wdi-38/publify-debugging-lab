@@ -51,7 +51,7 @@ $ rake --version
 $ bundle update rake
 ```
 
-If necessary, switch to ruby 2.2.5.
+If your version of ruby is less than 2.2.5, switch to ruby 2.2.5.
 
 ``` bash
 $ ruby -v
